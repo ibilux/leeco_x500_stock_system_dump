@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- calendar -->
+<Icon version="1"  useVariableUpdater="DateTime.Day">
+    <VariableBinders>
+	<BroadcastBinder action="android.intent.action.TIME_SET" />
+        <BroadcastBinder action="android.intent.action.DATE_CHANGED" />
+    </VariableBinders>   
+    <Image>
+       <week_margin_top>24</week_margin_top>
+       <week_font>hans-sans</week_font>
+       <week_text_size>24</week_text_size>
+       <week_text_color>#d03939</week_text_color>
+       <day_margin_top>60</day_margin_top>
+       <day_font>helve-neue-thin</day_font>
+       <day_text_size>81</day_text_size>
+       <day_text_color>#232323</day_text_color>
+       <src>"com.android.calendar.png"</src>         
+     </Image>
+</Icon>

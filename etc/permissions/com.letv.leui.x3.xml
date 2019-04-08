@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Features for product x3 -->
+<permissions>
+    <feature name="share.x3.share_show_x3_logo"/>
+    <feature name="com.letv.leui.deskclock.support_power_off_alarm_mtk"/>
+    <feature name="gallery2.movie_slow_motion"/>
+    <feature name="datausage.data_restrict_background" />
+    <feature name="letvbootservice.download_normal_resolution_video" />
+    <feature name="deskclock_not_support_gesture"/>
+    <feature name="soft_mute_key"/>
+    <feature name="setupwizard.display_mode_x3"/>
+    <feature name="hardware.support_fingerprint"/>
+    <feature name="compass.special_accuracy_for_x3"/>
+    <feature name="gallery2.new_color_mode_for_x3"/>
+</permissions>

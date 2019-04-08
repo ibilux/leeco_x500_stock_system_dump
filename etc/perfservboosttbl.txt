@@ -1,0 +1,3 @@
+CMD_SET_BOOST_PROCESS_INIT, system_server, PerfServiceMana, SETFUNC_RT_FIFO, 4
+CMD_SET_BOOST_PROCESS_PID, surfaceflinger, MMCompThread_2, SETFUNC_RT_RR, 84
+CMD_SET_BOOST_PROCESS_PID, mtkbt, mtkbt, SETFUNC_RT_RR, 95

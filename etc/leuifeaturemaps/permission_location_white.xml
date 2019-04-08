@@ -1,0 +1,12 @@
+<leui_feature_map name="COARSE_LOCATION" type="FeatureTypeWhite">
+    <leui_feature_item name="com.sdu.didi.psnger" />
+    <leui_feature_item name="com.funcity.taxi.passenger" />
+    <leui_feature_item name="com.baidu.BaiduMap" />
+    <leui_feature_item name="com.tencent.map" />
+    <leui_feature_item name="com.baidu.map.location" />
+    <leui_feature_item name="com.autonavi.minimap" />
+    <leui_feature_item name="com.jingdong.app.mall" />
+    <leui_feature_item name="com.taobao.taobao" />
+    <leui_feature_item name="com.eg.android.AlipayGphone" />
+    <leui_feature_item name="com.tmall.wireless" />
+</leui_feature_map>

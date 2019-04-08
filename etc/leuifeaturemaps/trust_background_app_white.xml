@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Features Maps for permission init -->
+<leui_feature_map name="TRUST_BG_APP" type="FeatureTypeWhite">
+    <leui_feature_item name="com.tencent.mm" />
+    <leui_feature_item name="com.tencent.mobileqq"/>
+    <leui_feature_item name="com.eg.android.AlipayGphone"/>
+    <leui_feature_item name="com.yahoo.mobile.client.android.weather"/>
+    <leui_feature_item name="com.whatsapp"/>
+
+    <!-- for oversea product -->
+    <leui_feature_item name="jp.naver.line.android"/>
+    <leui_feature_item name="com.facebook.katana"/>
+    <leui_feature_item name="com.facebook.orca"/>
+    <leui_feature_item name="com.snapchat.android"/>
+    <leui_feature_item name="com.instagram.android"/>
+    <leui_feature_item name="com.twitter.android"/>
+    <leui_feature_item name="com.skype.raider"/>
+    <leui_feature_item name="com.bbm"/>
+    <leui_feature_item name="com.viber.voip"/>
+    <leui_feature_item name="com.linkedin.android"/>
+    <leui_feature_item name="org.telegram.messenger"/>
+    <leui_feature_item name="com.imo.android.imoim"/>
+    <leui_feature_item name="com.imo.android.imoimbeta"/>
+    <leui_feature_item name="com.google.android.talk"/>
+</leui_feature_map>

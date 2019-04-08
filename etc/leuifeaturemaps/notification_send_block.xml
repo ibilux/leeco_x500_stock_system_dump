@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Features Maps for operator CMCC -->
+<leui_feature_map name="notification_block" type="FeatureTypeWhite">
+
+<leui_feature_item name="com.android.phone" />
+<leui_feature_item name="com.letv.android.ota" />
+<leui_feature_item name="com.letv.android.bugreporter" />
+<leui_feature_item name="com.android.settings" />
+<leui_feature_item name="com.android.dialer" />
+
+</leui_feature_map>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Features for india market -->
+<permissions>
+      <feature name="gallery2.oversea_disable_baidu_map"/>
+      <feature name="gallery2.oversea_disable_photo_sync"/>
+      <feature name="gallery2.oversea.disable_free_flow"/>
+      <feature name="yellowpage_tab"/>
+      <feature name="calendar.hide_subscribe_button"/>
+      <feature name="setupwizard.oversea"/>
+      <feature name="packagemanager.oversea"/>
+      <feature name="voiceassistant.oversea"/>
+      <feature name="launcher3.oversea"/>
+      <feature name="appops_aboard"/>
+      <feature name="settings.oversea"/>
+      <feature name="settings.wifi.oversea"/>
+      <feature name="settings.show_more_imei_settings"/>
+      <feature name="accountinfo"/>
+      <feature name="account"/>
+      <feature name="contacts.oversea_version"/>
+      <feature name="phone.yellow_page_query"/>
+      <feature name="ringtone_no_nationalsong"/>
+      <feature name="account_abroad_feature"/>
+      <feature name="browser.oversea"/>
+      <feature name="mms.allow_overseas_message"/>
+      <feature name="ota.oversea_uk"/>
+      <feature name="music.block_online_music"/>
+      <feature name="letvcloud_abroad_feature"/>
+      <feature name="dialer.showtwoimei"/>
+      <feature name="email.oversea.mail_hint"/>
+      <feature name="deskclock_hide_flag"/>
+      <feature name="deskclock_not_show_star_ringtone"/>
+      <feature name="gallery2.oversea_enable_google_map"/>
+      <feature name="shared.widget.reference_to_oversea_libs"/>
+      <feature name="filemanager.oversea"/>
+      <feature name="providers.settings.oversea"/>
+      <feature name="calendar.not_sync_subscribe_data"/>
+      <feature name="calendar.undisplay_lelicence"/>
+      <feature name="volumepanel_with_zen"/>
+      <feature name="packageinstaller.oversea"/>
+      <feature name="mms.click_recipient_to_delete"/>
+      <feature name="domain.oversea_obtain_domain_dynamically"/>
+      <feature name="systemui.keyguard_disable_wallpaper_shake"/>
+      <feature name="com.letv.leui.oversea_hide_letv_ecosystem_settings"/>
+      <feature name="com.stv.stvpush.overseas_get_url"/>
+      <feature name="calendar.hide_national_flag"/>
+      <feature name="dialer.showsar"/>
+      <feature name="setupwizard.india_disable_letvecological"/>
+      <feature name="dialer.india_display_meid"/>
+      <feature name="account.serviceslist_empty"/>
+      <feature name="oversea_hide_letv_ecosystem_settings"/>
+      <feature name="launcher3.oversea.show_letv_ecosystem"/>
+      <feature name="account.set_sales_area_india"/>
+</permissions>

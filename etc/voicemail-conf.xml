@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<voicemail>
+<voicemail numeric="45400" carrier="CSL" vmnumber="*988" vmtag="CSL voicemail" />
+
+<voicemail numeric="45403" carrier="3HK" vmnumber="*32" vmtag="3HK voicemail" />
+<voicemail numeric="45404" carrier="3HK" vmnumber="*32" vmtag="3HK voicemail" />
+
+<voicemail numeric="45406" carrier="SmarTone" vmnumber="138" vmtag="SmarTone voicemail" />
+
+<voicemail numeric="45412" carrier="CMHK" vmnumber="218" vmtag="CMHK voicemail" />
+<voicemail numeric="45413" carrier="CMHK" vmnumber="218" vmtag="CMHK voicemail" />
+</voicemail>

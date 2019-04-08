@@ -1,0 +1,22 @@
+<leui_feature_map name="RECORD_AUDIO" type="FeatureTypeWhite">
+    <leui_feature_item name="com.tencent.mm" />
+    <leui_feature_item name="com.tencent.mm:push" />
+    <leui_feature_item name="com.tencent.mobileqq"/>
+    <leui_feature_item name="com.sina.weibo"/>
+    <leui_feature_item name="com.sdu.didi.psnger" />
+    <leui_feature_item name="com.funcity.taxi.passenger" />
+    <leui_feature_item name="com.jingdong.app.mall" />
+    <leui_feature_item name="com.taobao.taobao" />
+    <leui_feature_item name="com.eg.android.AlipayGphone" />
+    <leui_feature_item name="com.tencent.qqmusic"/>
+    <leui_feature_item name="com.kugou.android"/>
+    <leui_feature_item name="com.netease.cloudmusic"/>
+    <leui_feature_item name="com.sds.android.ttpod"/>
+    <leui_feature_item name="com.changba"/>
+    <leui_feature_item name="cn.kuwo.player"/>
+    <leui_feature_item name="com.duomi.android"/>
+    <leui_feature_item name="fm.xiami.main"/>
+    <leui_feature_item name="com.ting.mp3.android"/>
+    <leui_feature_item name="com.tmall.wireless" />
+    <leui_feature_item name="com.letv.auto" />
+</leui_feature_map>

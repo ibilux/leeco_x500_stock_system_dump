@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Features Maps for operator CMCC -->
+<leui_feature_map name="notification_priority" type="FeatureTypeWhite">
+
+<leui_feature_item name="com.android.settings" />
+<leui_feature_item name="com.changba" />
+<leui_feature_item name="com.baidu.tieba" />
+<leui_feature_item name="cn.com.fetion" />
+<leui_feature_item name="com.google.android.talk" />
+<leui_feature_item name="alibaba.android.babylon" />
+<leui_feature_item name="com.xiaomi.channel" />
+<leui_feature_item name="com.immomo.momo" />
+<leui_feature_item name="com.renren.mobile.android" />
+<leui_feature_item name="com.tencent.WBlog" />
+<leui_feature_item name="com.netease.mobimail" />
+<leui_feature_item name="com.alibaba.mobileim" />
+<leui_feature_item name="com.welove520.welove" />
+<leui_feature_item name="com.tencent.mm" />
+<leui_feature_item name="com.wumii.android.mimi" />
+<leui_feature_item name="im.yixin" />
+<leui_feature_item name="com.yx" />
+<leui_feature_item name="com.eg.android.AlipayGphone" />
+<leui_feature_item name="com.zhihu.android" />
+<leui_feature_item name="com.sec.chaton" />
+<leui_feature_item name="com.facebook.katana" />
+<leui_feature_item name="com.google.android.gm" />
+<leui_feature_item name="com.google.android.apps.plus" />
+<leui_feature_item name="jp.naver.line.android" />
+<leui_feature_item name="com.facebook.orca" />
+<leui_feature_item name="com.path" />
+<leui_feature_item name="com.tencent.mobileqq" />
+<leui_feature_item name="com.qzone" />
+<leui_feature_item name="com.tencent.androidqqmail" />
+<leui_feature_item name="com.skype.rover" />
+<leui_feature_item name="com.snapchat.android" />
+<leui_feature_item name="com.twitter.android" />
+<leui_feature_item name="com.whatsapp" />
+<leui_feature_item name="com.android.dialer" />
+<leui_feature_item name="com.android.phone" />
+<leui_feature_item name="com.android.calendar" />
+<leui_feature_item name="com.android.mms" />
+<leui_feature_item name="com.android.email" />
+<leui_feature_item name="com.letv.android.bugreporter" />
+<leui_feature_item name="com.letv.android.ota" />
+<leui_feature_item name="com.android.server.telecom" />
+<leui_feature_item name="com.android.incallui" />
+<leui_feature_item name="com.android.telephony" />
+<leui_feature_item name="com.android.telecom" />
+<leui_feature_item name="com.letv.android.letvlive" />
+
+</leui_feature_map>

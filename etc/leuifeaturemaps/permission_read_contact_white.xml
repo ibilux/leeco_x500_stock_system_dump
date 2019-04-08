@@ -1,0 +1,6 @@
+
+<leui_feature_map name="READ_CONTACTS" type="FeatureTypeWhite">
+    <leui_feature_item name="com.baidu.input_letv" />
+    <leui_feature_item name="com.sohu.inputmethod.sogou" />
+    <leui_feature_item name="com.letv.auto" />
+</leui_feature_map>

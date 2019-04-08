@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PowerXtend_common>
+  <default_log_level>0</default_log_level>
+  <GuiPackageName>com.lucid.power</GuiPackageName>
+</PowerXtend_common>

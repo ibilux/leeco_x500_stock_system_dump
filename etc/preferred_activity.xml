@@ -1,0 +1,305 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<default-config>
+<persistent-preferred-activities>
+        <item name="com.android.mms/.ui.ComposeMessageActivity">
+            <filter>
+                <action name="android.intent.action.SENDTO" />
+                <cat name="android.intent.category.DEFAULT" />
+                <scheme name="mmsto" />
+            </filter>
+        </item>
+        <item name="com.android.videoplayer/.PlayerActivity">
+            <filter>
+                <action name="android.intent.action.VIEW" />
+                <cat name="android.intent.category.DEFAULT" />
+                <type name="video/x-msvideo" />
+            </filter>
+        </item>
+        <item name="cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity2">
+            <filter>
+                <action name="android.intent.action.VIEW" />
+                <cat name="android.intent.category.DEFAULT" />
+                <type name="application/vnd.ms-excel" />
+            </filter>
+        </item>
+        <item name="com.android.videoplayer/.PlayerActivity">
+            <filter>
+                <action name="android.intent.action.VIEW" />
+                <cat name="android.intent.category.DEFAULT" />
+                <type name="video/mp4" />
+            </filter>
+        </item>
+        <item name="com.android.email/.activity.ComposeActivityEmail">
+            <filter>
+                <action name="android.intent.action.SEND" />
+                <cat name="android.intent.category.BROWSABLE" />
+                <cat name="android.intent.category.DEFAULT" />
+                <scheme name="mailto" />
+            </filter>
+        </item>
+        <item name="com.android.mms/.ui.ComposeMessageActivity">
+            <filter>
+                <action name="android.intent.action.SENDTO" />
+                <cat name="android.intent.category.DEFAULT" />
+                <scheme name="sms" />
+            </filter>
+        </item>
+        <item name="com.android.videoplayer/.PlayerActivity">
+            <filter>
+                <action name="android.intent.action.VIEW" />
+                <cat name="android.intent.category.DEFAULT" />
+                <type name="video/x-flv" />
+            </filter>
+        </item>
+        <item name="com.android.launcher3/.Launcher">
+            <filter>
+                <action name="android.intent.action.MAIN" />
+                <cat name="android.intent.category.HOME" />
+                <cat name="android.intent.category.DEFAULT" />
+            </filter>
+        </item>
+        <item name="cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity2">
+            <filter>
+                <action name="android.intent.action.VIEW" />
+                <cat name="android.intent.category.DEFAULT" />
+                <type name="application/vnd.openxmlformats-officedocument.wordprocessingml.document" />
+            </filter>
+        </item>
+        <item name="com.android.videoplayer/.PlayerActivity">
+            <filter>
+                <action name="android.intent.action.VIEW" />
+                <cat name="android.intent.category.DEFAULT" />
+                <type name="video/3gpp" />
+            </filter>
+        </item>
+        <item name="com.android.gallery3d/.app.PhotoActivity">
+            <filter>
+                <action name="android.intent.action.VIEW" />
+                <cat name="android.intent.category.DEFAULT" />
+                <type name="image/*" />
+            </filter>
+        </item>
+        <item name="cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity2">
+            <filter>
+                <action name="android.intent.action.VIEW" />
+                <cat name="android.intent.category.DEFAULT" />
+                <type name="application/vnd.ms-powerpoint" />
+            </filter>
+        </item>
+        <item name="com.android.dialer/.DialtactsActivity">
+            <filter>
+                <action name="android.intent.action.DIAL" />
+                <cat name="android.intent.category.BROWSABLE" />
+                <cat name="android.intent.category.DEFAULT" />
+                <scheme name="tel" />
+            </filter>
+        </item>
+        <item name="cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity2">
+            <filter>
+                <action name="android.intent.action.VIEW" />
+                <cat name="android.intent.category.DEFAULT" />
+                <type name="application/msword" />
+            </filter>
+        </item>
+        <item name="cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity2">
+            <filter>
+                <action name="android.intent.action.VIEW" />
+                <cat name="android.intent.category.DEFAULT" />
+                <type name="text/plain" />
+            </filter>
+        </item>
+        <item name="cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity2">
+            <filter>
+                <action name="android.intent.action.VIEW" />
+                <cat name="android.intent.category.DEFAULT" />
+                <type name="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" />
+            </filter>
+        </item>
+        <item name="cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity2">
+            <filter>
+                <action name="android.intent.action.VIEW" />
+                <cat name="android.intent.category.DEFAULT" />
+                <type name="text/plain" />
+            </filter>
+        </item>
+        <item name="com.android.camera2/com.letv.litecamera.LightCameraActivity">
+            <filter>
+                <action name="android.media.action.IMAGE_CAPTURE" />
+                <cat name="android.intent.category.DEFAULT" />
+            </filter>
+        </item>
+        <item name="cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity2">
+            <filter>
+                <action name="android.intent.action.VIEW" />
+                <cat name="android.intent.category.DEFAULT" />
+                <type name="text/plain" />
+            </filter>
+        </item>
+        <item name="com.android.mms/.ui.ComposeMessageActivity">
+            <filter>
+                <action name="android.intent.action.SENDTO" />
+                <cat name="android.intent.category.DEFAULT" />
+                <scheme name="mms" />
+            </filter>
+        </item>
+        <item name="com.android.email/.activity.ComposeActivityEmail">
+            <filter>
+                <action name="android.intent.action.SENDTO" />
+                <cat name="android.intent.category.BROWSABLE" />
+                <cat name="android.intent.category.DEFAULT" />
+                <scheme name="mailto" />
+            </filter>
+        </item>
+        <item name="cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity2">
+            <filter>
+                <action name="android.intent.action.VIEW" />
+                <cat name="android.intent.category.DEFAULT" />
+                <type name="application/vnd.openxmlformats-officedocument.presentationml.presentation" />
+            </filter>
+        </item>
+        <item name="com.android.mms/.ui.ComposeMessageActivity">
+            <filter>
+                <action name="android.intent.action.SENDTO" />
+                <cat name="android.intent.category.DEFAULT" />
+                <scheme name="smsto" />
+            </filter>
+        </item>
+        <item name="com.android.videoplayer/.PlayerActivity">
+            <filter>
+                <action name="android.intent.action.VIEW" />
+                <cat name="android.intent.category.DEFAULT" />
+                <type name="video/x-ms-wmv" />
+            </filter>
+        </item>
+        <item name="com.android.camera2/com.android.camera.CameraLauncher">
+            <filter>
+                <action name="android.media.action.STILL_IMAGE_CAMERA" />
+                <cat name="android.intent.category.DEFAULT" />
+            </filter>
+        </item>
+        <item name="com.android.music/.ui.AudioPreview">
+            <filter>
+                <action name="android.intent.action.VIEW" />
+                <cat name="android.intent.category.DEFAULT" />
+                <type name="audio/*" />
+            </filter>
+        </item>
+        <item name="com.android.email/.activity.ComposeActivityEmail">
+            <filter>
+                <action name="android.intent.action.VIEW" />
+                <cat name="android.intent.category.BROWSABLE" />
+                <cat name="android.intent.category.DEFAULT" />
+                <scheme name="mailto" />
+            </filter>
+        </item>
+        <item name="com.android.server.telecom/.CallActivity">
+            <filter>
+                <action name="android.intent.action.CALL_EMERGENCY" />
+                <cat name="android.intent.category.DEFAULT" />
+                <cat name="android.intent.category.BROWSABLE" />
+                <scheme name="tel" />
+            </filter>
+        </item>
+        <item name="com.android.server.telecom/.CallActivity">
+            <filter>
+                <action name="android.intent.action.CALL_PRIVILEGED" />
+                <cat name="android.intent.category.DEFAULT" />
+                <cat name="android.intent.category.BROWSABLE" />
+                <scheme name="tel" />
+            </filter>
+        </item>
+        <item name="com.android.server.telecom/.CallActivity">
+            <filter>
+                <action name="android.intent.action.CALL" />
+                <cat name="android.intent.category.DEFAULT" />
+                <cat name="android.intent.category.BROWSABLE" />
+                <scheme name="tel" />
+            </filter>
+        </item>
+
+        <item name="com.android.gallery3d/.app.PhotoActivity">
+            <filter>
+                <action name="android.intent.action.PICK" />
+                <cat name="android.intent.category.DEFAULT" />
+                <type name="image/*" />
+            </filter>
+        </item>
+        <item name="com.android.camera2/com.letv.litecamera.LightCameraActivity">
+            <filter>
+                <action name="android.media.action.VIDEO_CAPTURE" />
+                <cat name="android.intent.category.DEFAULT" />
+            </filter>
+        </item>
+        <item name="cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity2">
+            <filter>
+                <action name="android.intent.action.VIEW" />
+                <cat name="android.intent.category.DEFAULT" />
+                <type name="application/pdf" />
+            </filter>
+        </item>
+        <item name="com.android.dialer/.DialtactsActivity">
+            <filter>
+                <action name="android.intent.action.VIEW" />
+                <cat name="android.intent.category.BROWSABLE" />
+                <cat name="android.intent.category.DEFAULT" />
+                <scheme name="tel" />
+            </filter>
+        </item>
+	<item name="com.android.dialer/.DialtactsActivity">
+	    <filter>
+	        <action name="android.intent.action.VIEW" />
+	        <cat name="android.intent.category.DEFAULT" />
+	        <type name="vnd.android.cursor.dir/calls" />
+	    </filter>
+	</item>
+	<item name="com.android.email/com.android.mail.browse.EmlViewerActivity">
+	    <filter>
+	        <action name="android.intent.action.VIEW" />
+	        <cat name="android.intent.category.DEFAULT" />
+	        <type name="application/eml" />
+	    </filter>
+	</item>
+	<item name="com.android.email/com.android.mail.browse.EmlViewerActivity">
+	    <filter>
+	        <action name="android.intent.action.VIEW" />
+	        <cat name="android.intent.category.DEFAULT" />
+	        <type name="message/rfc822" />
+	    </filter>
+	</item>
+       <item name="com.android.contacts/.activities.ContactSelectionActivity">
+            <filter>
+                <action name="android.intent.action.INSERT_OR_EDIT" />
+                <cat name="android.intent.category.DEFAULT" />
+                <type name="vnd.android.cursor.item/contact" />
+            </filter>
+        </item>
+        <item name="com.android.contacts/.activities.ContactEditorActivity">
+            <filter>
+                <action name="android.intent.action.INSERT" />
+                <cat name="android.intent.category.DEFAULT" />
+                <type name="vnd.android.cursor.dir/contact" />
+            </filter>
+        </item>
+        <item name="com.android.contacts/.activities.ContactEditorActivity">
+            <filter>
+                <action name="android.intent.action.EDIT" />
+                <cat name="android.intent.category.DEFAULT" />
+                <type name="vnd.android.cursor.item/contact" />
+            </filter>
+        </item>
+        <item name="com.android.calendar/.EventInfoActivity">
+            <filter>
+                <action name="android.intent.action.VIEW" />
+                <cat name="android.intent.category.DEFAULT" />
+                <type name="vnd.android.cursor.item/event" />
+            </filter>
+        </item>
+	<item name="com.android.music/.ui.AudioPreview">
+	    <filter>
+	        <action name="android.intent.action.VIEW" />
+	        <cat name="android.intent.category.DEFAULT" />
+	        <type name="application/ogg" />
+	    </filter>
+	</item>
+</persistent-preferred-activities>
+</default-config>

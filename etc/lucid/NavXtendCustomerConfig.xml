@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<client>
+  <default>
+    <normal_save>0</normal_save>
+    <high_save>0</high_save>
+    <ultra_save>2</ultra_save>
+    <auto_mode>0</auto_mode>
+    <state>0</state>
+    <touch_enable>1</touch_enable>
+    <touch_holdoff>2000</touch_holdoff>
+    <touch_ps_param>0</touch_ps_param>
+  </default>
+  <apps>
+    <com.sogou.map.android.maps>
+      <normal_save>0</normal_save>
+      <high_save>2</high_save>
+      <ultra_save>4</ultra_save>
+      <touch_enable>1</touch_enable>
+    </com.sogou.map.android.maps>
+    <com.tigerknows>
+      <normal_save>0</normal_save>
+      <high_save>2</high_save>
+      <ultra_save>4</ultra_save>
+      <touch_enable>1</touch_enable>
+    </com.tigerknows>
+    <com.google.android.apps.maps>
+      <normal_save>0</normal_save>
+      <high_save>2</high_save>
+      <ultra_save>3</ultra_save>
+      <touch_enable>1</touch_enable>
+    </com.google.android.apps.maps>
+    <com.autonavi.minimap>
+      <normal_save>2</normal_save>
+      <high_save>2</high_save>
+      <ultra_save>4</ultra_save>
+      <touch_enable>0</touch_enable>
+    </com.autonavi.minimap>
+    <com.sdu.didi.psnger>
+      <normal_save>0</normal_save>
+      <high_save>2</high_save>
+      <ultra_save>2</ultra_save>
+      <touch_enable>0</touch_enable>
+    </com.sdu.didi.psnger>
+  </apps>
+</client>

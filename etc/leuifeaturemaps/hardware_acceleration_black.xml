@@ -1,0 +1,4 @@
+<leui_feature_map name="HARDWARE_ACCELERATION" type="FeatureTypeBlack">
+    <leui_feature_item name="com.tencent.king.candycrushsaga" />
+    <leui_feature_item name="com.tencent.feiji" />
+</leui_feature_map>

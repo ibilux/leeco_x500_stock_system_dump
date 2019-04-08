@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Features Maps for permission init -->
+<leui_feature_map name="BOOT_COMPLETED" type="FeatureTypeWhite">
+    <leui_feature_item name="com.tencent.mm" />
+    <leui_feature_item name="com.zdworks.android.zdclock" />
+    <leui_feature_item name="com.tencent.mm:push" />
+    <leui_feature_item name="com.tencent.mobileqq"/>
+    <leui_feature_item name="com.sina.weibo"/>
+    <leui_feature_item name="com.sina.weibog3"/>
+    <leui_feature_item name="com.letv.app.appstore"/>
+    <leui_feature_item name="com.letv.android.letvlive"/>
+    <leui_feature_item name="com.letv.auto"/>
+    <leui_feature_item name="com.google.android.gms"/>
+    <leui_feature_item name="com.google.android.googlequicksearchbox"/>
+    <leui_feature_item name="com.google.android.feedback"/>
+    <leui_feature_item name="com.google.android.onetimeinitializer"/>
+    <leui_feature_item name="com.google.android.apps.photos"/>
+    <leui_feature_item name="com.google.android.apps.maps"/>
+    <leui_feature_item name="com.google.android.gm"/>
+    <leui_feature_item name="com.google.android.gsf"/>
+    <leui_feature_item name="com.google.android.youtube"/>
+    <leui_feature_item name="com.google.android.music"/>
+    <leui_feature_item name="com.google.android.talk"/>
+    <leui_feature_item name="com.google.android.androidforwork"/>
+    <leui_feature_item name="com.google.android.setupwizard"/>
+    <leui_feature_item name="com.google.android.syncadapters.contacts"/>
+    <leui_feature_item name="com.google.android.syncadapters.calendar"/>
+    <leui_feature_item name="com.google.android.backuptransport"/>
+    <leui_feature_item name="com.google.android.configupdater"/>
+    <leui_feature_item name="com.google.android.apps.docs"/>
+    <leui_feature_item name="com.google.android.tts"/>
+    <leui_feature_item name="com.google.android.partnersetup"/>
+    <leui_feature_item name="com.google.android.gsf.login"/>
+    <leui_feature_item name="com.letv.android.letvlive"/>
+</leui_feature_map>

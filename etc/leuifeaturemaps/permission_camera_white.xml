@@ -1,0 +1,33 @@
+<leui_feature_map name="CAMERA" type="FeatureTypeWhite">
+    <leui_feature_item name="com.tencent.mm" />
+    <leui_feature_item name="com.tencent.mm:push" />
+    <leui_feature_item name="com.tencent.mobileqq"/>
+    <leui_feature_item name="com.sina.weibo"/>
+    <leui_feature_item name="com.jingdong.app.mall"/>
+    <leui_feature_item name="com.taobao.taobao"/>
+    <leui_feature_item name="com.eg.android.AlipayGphone"/>
+    <leui_feature_item name="com.mt.mtxx.mtxx"/>
+    <leui_feature_item name="com.smile.gifmaker"/>
+    <leui_feature_item name="com.meitu.meiyancamera"/>
+    <leui_feature_item name="vStudio.Android.Camera360"/>
+    <leui_feature_item name="com.letv.lesophoneclient"/>
+    <leui_feature_item name="com.letv.superlepai"/>
+    <leui_feature_item name="com.letv.android.client"/>
+    <leui_feature_item name="com.meitu.meipaimv"/>
+    <leui_feature_item name="com.youku.phone"/>
+    <leui_feature_item name="com.qiyi.video"/>
+    <leui_feature_item name="com.sohu.sohuvideo"/>
+
+
+    <leui_feature_item name="com.tencent.qqmusic"/>
+    <leui_feature_item name="com.kugou.android"/>
+    <leui_feature_item name="com.netease.cloudmusic"/>
+    <leui_feature_item name="com.sds.android.ttpod"/>
+    <leui_feature_item name="com.changba"/>
+    <leui_feature_item name="cn.kuwo.player"/>
+    <leui_feature_item name="com.duomi.android"/>
+    <leui_feature_item name="fm.xiami.main"/>
+    <leui_feature_item name="com.ting.mp3.android"/>
+    <leui_feature_item name="com.tmall.wireless" />
+    <leui_feature_item name="com.liveaa.education" />
+</leui_feature_map>

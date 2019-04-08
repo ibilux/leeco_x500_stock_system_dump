@@ -1,0 +1,3 @@
+<leui_feature_map name="POST_NOTIFICATION" type="FeatureTypeBlack">
+    <leui_feature_item name="com.mediatek.mtklogger" />
+</leui_feature_map>

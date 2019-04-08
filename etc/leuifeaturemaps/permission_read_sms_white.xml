@@ -1,0 +1,3 @@
+<leui_feature_map name="READ_SMS" type="FeatureTypeWhite">
+    <leui_feature_item name="com.letv.auto" />
+</leui_feature_map>

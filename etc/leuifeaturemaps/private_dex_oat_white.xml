@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Features Maps for permission init -->
+<leui_feature_map name="PRIVATE_DEX_OAT" type="FeatureTypeWhite">
+    <leui_feature_item name="com.google.android.gms"/>
+</leui_feature_map>
